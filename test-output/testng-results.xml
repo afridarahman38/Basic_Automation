@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T17:09:47 BDT" name="Default suite" finished-at="2024-03-06T17:09:56 BDT" duration-ms="9290">
+    <groups>
+    </groups>
+    <test started-at="2024-03-06T17:09:47 BDT" name="Default test" finished-at="2024-03-06T17:09:56 BDT" duration-ms="9290">
+      <class name="AutomationProject.CopyPaste">
+        <test-method is-config="true" signature="start()[pri:0, instance:AutomationProject.CopyPaste@4c12331b]" started-at="2024-03-06T17:09:44 BDT" name="start" finished-at="2024-03-06T17:09:47 BDT" duration-ms="2691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="exampleCopy()[pri:0, instance:AutomationProject.CopyPaste@4c12331b]" started-at="2024-03-06T17:09:47 BDT" name="exampleCopy" finished-at="2024-03-06T17:09:56 BDT" duration-ms="9222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleCopy -->
+        <test-method is-config="true" signature="close()[pri:0, instance:AutomationProject.CopyPaste@4c12331b]" started-at="2024-03-06T17:09:56 BDT" name="close" finished-at="2024-03-06T17:09:57 BDT" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- AutomationProject.CopyPaste -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
